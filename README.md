@@ -1,5 +1,5 @@
 # hapi-mongo-swagger
-This API accepts the json data from any service and use that data and converts it to JOSN and sends it to mongo and also 
+This API accepts the data from any service and converts it to JSON and sends it to mongo and also 
 to kafka using kafkasqueue plugin parallely. 
 
 This also has hapi-swagger integration for dicumentation and testing purpose. 
